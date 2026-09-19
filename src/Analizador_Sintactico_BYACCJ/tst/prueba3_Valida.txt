@@ -1,0 +1,16 @@
+int a;
+float b;
+double c;
+complex d;
+
+func void main() {
+    a = 203;
+    b = 2.823;
+    c = 22024;
+    d = (1 + 2i);
+
+    print a;
+    print b;
+    print c;
+    print d;
+}

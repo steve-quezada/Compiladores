@@ -1,0 +1,17 @@
+proto int sum(int a, int b);
+
+int x;
+int y;
+int result;
+
+func int sum(int a, int b) {
+    return a + b;
+}
+
+func int main() {
+    x = 10;
+    y = 20;
+    result = sum(x, y);
+    print result;
+    return 0;
+}

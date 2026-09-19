@@ -1,0 +1,12 @@
+int x, y;
+float c;
+
+func void main() {
+    x = 5;
+    y = 10;
+    c = 3.14;
+
+    print x;
+    print y;
+    print c;
+}

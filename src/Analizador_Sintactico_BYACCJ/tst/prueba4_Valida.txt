@@ -1,0 +1,6 @@
+double a;
+
+func void main() {
+    a = 10.88;
+    print a;
+}

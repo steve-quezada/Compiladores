@@ -1,0 +1,5 @@
+int x;
+
+func int main() {
+    return 0;
+}
